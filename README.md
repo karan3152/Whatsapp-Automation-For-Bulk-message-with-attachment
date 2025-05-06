@@ -79,9 +79,6 @@ An automated tool for sending WhatsApp messages and attachments to multiple cont
 - Rate limiting may apply based on WhatsApp's policies
 - Use responsibly and respect privacy laws and regulations
 
-## License
-
-MIT License
 
 ## Disclaimer
 
