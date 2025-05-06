@@ -1,0 +1,12 @@
+Dear {name},
+good morning 
+
+this is {name}HR
+we please to inform you that your  profile as been selected for the position of {position} at {company}.
+Your User ID: {id}
+Password: {dob}
+Name: {name}
+
+
+Regards,
+xyz pvt ltd.
